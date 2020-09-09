@@ -1,0 +1,2 @@
+- GQ_NEWS PROJECT
+- using graph, apollo-express, mongo, mongoose and react :)
